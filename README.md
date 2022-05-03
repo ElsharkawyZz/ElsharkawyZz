@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ElsharkawYZz" target="blank"><img src="https://img.shields.io/twitter/follow/ElsharkawyYZz?logo=twitter&style=for-the-badge" alt="ElsharkawYZz" /></a> </p">
 
-<img align = "right" alt = "Coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuB7nK-6jvlk8hWT6IW46gGEq_WqQtKI4tQ&usqp=CAU>
+<img align = "right" alt = "Coding" width = "400" src= "https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-elsharkawy-1130b8237](https://www.linkedin.com/in/ahmed-elsharkawy-1130b8237)
 
