@@ -1,6 +1,8 @@
 # 💫 About Me:
 🖥️ I'm currently learning Data Science and ML<br>🗨️ Ask me about ML and Data Analysis<br>📨 Do not hesitate to communicate with me<br>
 
+[![](https://visitcount.itsvg.in/api?id=ElsharkawyZz&icon=3&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/elsharkawy.daana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/el__sharkawy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsharkawy-1130b8237) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ElsharkawYZz) 
@@ -22,6 +24,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ElsharkawyZz&icon=3&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
